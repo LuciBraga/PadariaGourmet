@@ -1,5 +1,5 @@
 body  {
-	background: #CCCCCC
+	background: hsl(0, 79%, 75%)
 }
 
 #doce {
@@ -7,7 +7,8 @@ body  {
 }
 
 h1 {
-	text-align: center
+	text-align: center;
+	
 
 }
 p{
